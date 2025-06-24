@@ -49,3 +49,4 @@ pip install opencv-python scikit-learn scikit-image numpy joblib
 
 ![Screenshot 2025-04-18 010237](https://github.com/user-attachments/assets/77be9c5b-dfac-4500-939c-2f5cf34ee5a0)
 
+![Screenshot 2025-04-18 010115](https://github.com/user-attachments/assets/03d76531-1c42-4209-aa5b-9b076edb2833)
